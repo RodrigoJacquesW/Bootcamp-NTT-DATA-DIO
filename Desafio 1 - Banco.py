@@ -1,4 +1,4 @@
-print("\n===BEM VINDO===")
+print("\n===BEM-VINDO===")
 menu = """
 
 [d] Depositar
